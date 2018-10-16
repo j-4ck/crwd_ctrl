@@ -1,3 +1,5 @@
+# UNFINISHED. PLEASE SEND ALL FEEDBACK AND EXPERIENCE TO @ 0xjack ON INSTAGRAM ASAP
+# long live deletehumanity
 import logging
 logging.getLogger("scapy.runtime").setLevel(logging.ERROR)
 from scapy.all import *
